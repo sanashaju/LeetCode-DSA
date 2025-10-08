@@ -1,4 +1,4 @@
-# 🧩 LeetCode Solutions
+# 🧩 LeetCode-DSA
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Yes-brightgreen)
