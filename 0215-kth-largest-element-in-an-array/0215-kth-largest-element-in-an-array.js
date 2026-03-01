@@ -4,29 +4,39 @@
  * @return {number}
  */
 var findKthLargest = function(nums, k) {
-    const target = nums.length - k
+    const heap = [];
 
-    function quickSelect(left, right) {
-        const pivotIndex = left + Math.floor(Math.random() * (right - left + 1))
-        ;[nums[pivotIndex], nums[right]] = [nums[right], nums[pivotIndex]]
-
-        const pivot = nums[right]
-        let p = left
-
-        for (let i = left; i < right; i++) {
-            if (nums[i] <= pivot) {
-                ;[nums[p], nums[i]] = [nums[i], nums[p]]
-                p++
-            }
+    const push = (val) => {
+        heap.push(val);
+        let i = heap.length - 1;
+        while (i > 0) {
+            let p = Math.floor((i - 1) / 2);
+            if (heap[p] <= heap[i]) break;
+            [heap[p], heap[i]] = [heap[i], heap[p]];
+            i = p;
         }
+    };
 
-        ;[nums[p], nums[right]] = [nums[right], nums[p]]
+    const pop = () => {
+        const top = heap[0];
+        heap[0] = heap.pop();
+        let i = 0;
+        while (true) {
+            let l = 2 * i + 1, r = 2 * i + 2, smallest = i;
+            if (l < heap.length && heap[l] < heap[smallest]) smallest = l;
+            if (r < heap.length && heap[r] < heap[smallest]) smallest = r;
+            if (smallest === i) break;
+            [heap[i], heap[smallest]] = [heap[smallest], heap[i]];
+            i = smallest;
+        }
+        return top;
+    };
 
-        if (p === target) return nums[p]
-        if (p < target) return quickSelect(p + 1, right)
-        return quickSelect(left, p - 1)
+    for (let num of nums) {
+        push(num);
+        if (heap.length > k) pop();
     }
 
-    return quickSelect(0, nums.length - 1)
+    return heap[0];
 };
 
