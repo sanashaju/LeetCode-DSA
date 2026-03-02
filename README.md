@@ -57,3 +57,23 @@ const twoSum = (nums, target) => {
     map.set(nums[i], i);
   }
 };
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+<!---LeetCode Topics End-->
