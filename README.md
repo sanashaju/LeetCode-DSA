@@ -72,8 +72,13 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
