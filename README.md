@@ -63,6 +63,7 @@ const twoSum = (nums, target) => {
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
