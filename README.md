@@ -89,6 +89,7 @@ const twoSum = (nums, target) => {
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sanashaju/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sanashaju/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
@@ -106,4 +107,8 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/sanashaju/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
