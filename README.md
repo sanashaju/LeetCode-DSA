@@ -83,10 +83,16 @@ const twoSum = (nums, target) => {
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sanashaju/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
