@@ -3,7 +3,7 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    if (x < 2) return x; // 0 and 1 are edge cases
+    if (x < 2) return x; 
 
     let left = 1, right = x, ans = 0;
 
