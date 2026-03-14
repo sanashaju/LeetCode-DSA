@@ -95,12 +95,14 @@ const twoSum = (nums, target) => {
 | [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sanashaju/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
+| [0198-house-robber](https://github.com/sanashaju/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/sanashaju/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/sanashaju/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
