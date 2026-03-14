@@ -67,6 +67,7 @@ const twoSum = (nums, target) => {
 | [0066-plus-one](https://github.com/sanashaju/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sanashaju/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/sanashaju/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/sanashaju/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -113,4 +115,8 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sanashaju/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sanashaju/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sanashaju/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
