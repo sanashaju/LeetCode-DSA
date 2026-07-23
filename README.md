@@ -77,6 +77,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/sanashaju/LeetCode-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
@@ -97,6 +98,7 @@ const twoSum = (nums, target) => {
 | [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sanashaju/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/sanashaju/LeetCode-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0198-house-robber](https://github.com/sanashaju/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
