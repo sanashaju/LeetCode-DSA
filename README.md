@@ -78,6 +78,7 @@ const twoSum = (nums, target) => {
 | [0067-add-binary](https://github.com/sanashaju/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/sanashaju/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sanashaju/LeetCode-DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanashaju/LeetCode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Array
 | Problem Name | Difficulty |
